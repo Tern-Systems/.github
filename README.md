@@ -1,7 +1,7 @@
 <div align="center">
 <img src=https://github.com/user-attachments/assets/dc102740-151f-49aa-bd79-3bdfa934c892 width="1200" />
 
-# Tern Systems Organization
+# GitHub Organization
 </div>
 
 Welcome to the Tern Systems organization on GitHub. Tern Systems is a consortium that encapsulates a diverse array of products, services, assets, and projects integral to the operations of Tern Systems companies. Our GitHub organization is structured to facilitate collaboration, innovation, and transparency across our various technological initiatives. Below is an overview of the key repositories within our organization:
