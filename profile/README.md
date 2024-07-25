@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/user-attachments/assets/dc102740-151f-49aa-bd79-3bdfa934c892 width="1200" />
+<img src=https://github.com/user-attachments/assets/0b10d476-8e54-4dec-8b53-39a381a98c3d width="1200" />
 
 # Welcome to the Tern Systems GitHub Organization!
 </div>
@@ -26,7 +26,7 @@ Welcome to the Tern Systems GitHub Organization. Tern Systems is a consortium th
 ## Repositories
 
 <div align="center">
-<img src=https://github.com/user-attachments/assets/7265c00f-45b6-462e-b250-79caffbea817 width="1200" />
+<img src=https://github.com/user-attachments/assets/4ba18821-e3fc-43d1-b52e-748d30bae7c9 width="1200" />
 </div>
 
 ### [BTMC](https://github.com/Tern-Systems/BTMC)
@@ -34,7 +34,7 @@ The BTMC repository houses the core framework and libraries utilized for buildin
 <br></br>
 
 <div align="center">
-<img src=https://github.com/user-attachments/assets/39717ab0-3514-4443-9ee2-d08c13272470 width="1200" />
+<img src=https://github.com/user-attachments/assets/244d0d1c-1aaa-4d22-815a-8c8f2060efd1 width="1200" />
 </div>
 
 ### [TERN](https://github.com/Tern-Systems/TERN)
@@ -50,7 +50,7 @@ The G repository contains a collection of utilities and general-purpose librarie
 <br></br>
 
 <div align="center">
-<img src=https://github.com/user-attachments/assets/dc102740-151f-49aa-bd79-3bdfa934c892 width="1200" />
+<img src=https://github.com/user-attachments/assets/0b10d476-8e54-4dec-8b53-39a381a98c3d width="1200" />
 </div>
 
 ### [Tern-Systems-Website](https://github.com/Tern-Systems/Tern-Systems-Website)
@@ -58,7 +58,7 @@ This repository hosts the source code for the Tern Systems corporate website. It
 <br></br>
 
 <div align="center">
-<img src=https://github.com/user-attachments/assets/69a42cac-53e2-44b7-bdfc-0754ea124578 width="1200" />
+<img src=https://github.com/user-attachments/assets/50cf0000-e616-4bbe-b1bb-dab0b519ee88 width="1200" />
 </div>
 
 ### [TernKey](https://github.com/Tern-Systems/TernKey)
