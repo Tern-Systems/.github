@@ -20,7 +20,7 @@
 
 # Overview
 
-Welcome to the Tern Systems GitHub Organization. Tern Systems is a consortium that encapsulates a diverse array of products, services, assets, and projects integral to the operations of Tern Systems companies. Our GitHub organization is structured to facilitate collaboration, innovation, and transparency across our various technological initiatives. Below is an overview of the key repositories within our organization:
+Welcome to the Tern Systems GitHub Organization! Tern Systems is a consortium that encapsulates a diverse array of products, services, assets, and projects integral to the operations of Tern Systems companies. Our GitHub organization is structured to facilitate collaboration, innovation, and transparency across our various technological initiatives. Below is an overview of the key repositories within our organization:
 
 <br></br>
 ## Repositories
