@@ -18,6 +18,52 @@
 [![Agreement](https://img.shields.io/badge/agreement-Tern%20Systems-lightgrey?style=plastic)](AGREEMENT)
 [![License](https://img.shields.io/badge/license-MIT-FF2D00?style=plastic)](LICENSE)
 
+# Overview
+
+Welcome to the Tern Systems GitHub Organization. Tern Systems is a consortium that encapsulates a diverse array of products, services, assets, and projects integral to the operations of Tern Systems companies. Our GitHub organization is structured to facilitate collaboration, innovation, and transparency across our various technological initiatives. Below is an overview of the key repositories within our organization:
+
+<br></br>
+## Repositories
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/7265c00f-45b6-462e-b250-79caffbea817 width="1200" />
+</div>
+
+### [BTMC](https://github.com/Tern-Systems/BTMC)
+The BTMC repository houses the core framework and libraries utilized for building and managing Tern Systems' back-end infrastructure. This repository includes essential tools, configurations, and documentation to support robust and scalable backend solutions.
+<br></br>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/39717ab0-3514-4443-9ee2-d08c13272470 width="1200" />
+</div>
+
+### [TERN](https://github.com/Tern-Systems/TERN)
+The TERN repository is the heart of our Tern project, providing the primary codebase for the Tern application. It includes comprehensive resources for developers, such as API documentation, integration guides, and development tools necessary for the enhancement and maintenance of the Tern application.
+<br></br>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/5d232e74-0ab8-446a-9c09-19349b4a8851 width="1200" />
+</div>
+
+### [G](https://github.com/Tern-Systems/G)
+The G repository contains a collection of utilities and general-purpose libraries that support various Tern Systems projects. These libraries are designed to streamline development processes, enhance functionality, and ensure consistency across our projects.
+<br></br>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/dc102740-151f-49aa-bd79-3bdfa934c892 width="1200" />
+</div>
+
+### [Tern-Systems-Website](https://github.com/Tern-Systems/Tern-Systems-Website)
+This repository hosts the source code for the Tern Systems corporate website. It includes the website's front-end code, assets, and content management resources. Contributions to this repository help us maintain an up-to-date, user-friendly web presence.
+<br></br>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/69a42cac-53e2-44b7-bdfc-0754ea124578 width="1200" />
+</div>
+
+### [TernKey](https://github.com/Tern-Systems/TernKey)
+TernKey is our security and authentication project. This repository contains the code and documentation for implementing secure access control and authentication mechanisms across Tern Systems' applications and services. TernKey ensures our systems remain secure and resilient.
+<br></br>
 
 ## Introduction
 Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on board. This document serves as your guide to getting started with our GitHub organization, understanding our workflows, and integrating smoothly into our team.
