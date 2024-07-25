@@ -20,7 +20,7 @@
 
 # Overview
 
-Welcome to the Tern Systems organization on GitHub. Tern Systems is a consortium that encapsulates a diverse array of products, services, assets, and projects integral to the operations of Tern Systems companies. Our GitHub organization is structured to facilitate collaboration, innovation, and transparency across our various technological initiatives. Below is an overview of the key repositories within our organization:
+Welcome to the Tern Systems GitHub Organization. Tern Systems is a consortium that encapsulates a diverse array of products, services, assets, and projects integral to the operations of Tern Systems companies. Our GitHub organization is structured to facilitate collaboration, innovation, and transparency across our various technological initiatives. Below is an overview of the key repositories within our organization:
 
 <br></br>
 ## Repositories
@@ -53,13 +53,12 @@ Thank you for visiting the Tern Systems GitHub organization. Together, we are dr
 <br></br>
 ## Contributing
 
-Contributors to the G programming language are to detail the degree of changes that were invoked at each commit stage.
-Maintaining a high level of professionalism in work and communication is paramount to the integrity of the G
-programming languages and so the following guidelines must be followed:
+Contributors to the Tern Systems GitHub Organization are to detail the degree of changes that were invoked at each commit stage.
+Maintaining a high level of professionalism in work and communication is paramount to the integrity of the Tern Systems GitHub Organization and so the following guidelines must be followed:
 <br></br>
 
 1. __Adhere to the Tern Systems Coding Standards__
-    * Follow established coding standards and style guides relevant to the Tern Systems project.
+    * Follow established coding standards and style guides relevant to the Tern Systems GitHub Organization.
       
     * Ensure consistency in code formatting, naming conventions, and file organization.
 <br></br>    
