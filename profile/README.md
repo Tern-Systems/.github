@@ -43,6 +43,7 @@ Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on 
 
    * Start by cloning the repository relevant to your project.
 
+<br></br>
 ## Working with Repositories
 
 ### 1. __Branching Strategy__
@@ -79,6 +80,7 @@ Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on 
    
    * Add a detailed description of the changes made.
 
+<br></br>
 ## Code Reviews
 
 ### 1. __Reviewing PRs__
@@ -93,11 +95,12 @@ Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on 
    
    * Ensure all conversations are resolved before merging.
 
+<br></br>
 ## Best Practices
 
 ### 1. __Coding Standards__
 
-   * Follow our [coding guidelines](https://github.com/TernSystems/coding-guidelines).
+   * Follow our [coding guidelines](https://github.com/TernSystems/coding-guidelines.md).
      
    * Write clean, readable, and maintainable code.
 
@@ -107,6 +110,7 @@ Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on 
    
    * Update the README file with any new setup instructions or changes.
 
+<br></br>
 ## Communication
 
 ### 1. __Slack__
@@ -121,6 +125,7 @@ Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on 
    
    * Check the meeting calendar on Slack for updates.
 
+<br></br>
 ## Support
 
 ### 1. __Technical Support__
@@ -133,4 +138,4 @@ Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on 
 
 ---
 
-We are excited to see the great contributions you will make. Welcome to Tern Systems and happy coding!
+We are excited to see the great contributions you will make. Welcome to the Tern Systems GitHub Organization and happy coding!
