@@ -30,7 +30,7 @@ Welcome to the Tern Systems GitHub Organization. Tern Systems is a consortium th
 </div>
 
 ### [BTMC](https://github.com/Tern-Systems/BTMC)
-The BTMC repository houses the core framework and libraries utilized for building and managing Tern Systems' back-end infrastructure. This repository includes essential tools, configurations, and documentation to support robust and scalable backend solutions.
+BTMC stands for Balanced Ternary Machine Code and is designed for efficient computing using the balanced ternary number system. This repository contains the specifications, tools, and examples for BTMC, aimed at leveraging the unique advantages of ternary computing systems to achieve higher efficiency and performance.
 <br></br>
 
 <div align="center">
@@ -38,7 +38,7 @@ The BTMC repository houses the core framework and libraries utilized for buildin
 </div>
 
 ### [TERN](https://github.com/Tern-Systems/TERN)
-The TERN repository is the heart of our Tern project, providing the primary codebase for the Tern application. It includes comprehensive resources for developers, such as API documentation, integration guides, and development tools necessary for the enhancement and maintenance of the Tern application.
+TERN is a groundbreaking assembly language designed for balanced ternary computing systems. Drawing inspiration from the RISC-V architecture, TERN aims to provide a robust and efficient programming language that harnesses the power of ternary logic.
 <br></br>
 
 <div align="center">
@@ -46,7 +46,7 @@ The TERN repository is the heart of our Tern project, providing the primary code
 </div>
 
 ### [G](https://github.com/Tern-Systems/G)
-The G repository contains a collection of utilities and general-purpose libraries that support various Tern Systems projects. These libraries are designed to streamline development processes, enhance functionality, and ensure consistency across our projects.
+The G programming language is a high-level programming language whose grammar is inspired by Python. The G compiler, written in C++, compiles G code down to the TERN assembly language. This project aims to combine the simplicity and readability of Python with the performance and control of low-level TERN assembly.
 <br></br>
 
 <div align="center">
@@ -62,7 +62,7 @@ This repository hosts the source code for the Tern Systems corporate website. It
 </div>
 
 ### [TernKey](https://github.com/Tern-Systems/TernKey)
-TernKey is our security and authentication project. This repository contains the code and documentation for implementing secure access control and authentication mechanisms across Tern Systems' applications and services. TernKey ensures our systems remain secure and resilient.
+TernKey is a ternary microprocessor language simulator that communicates the usefulness and real-world applicability of ternary microprocessor designs through the software front. TernKey will be hosted on our website with a ternary emulated environment (virtual machine) meant to allow programmers and software developers alike to educate themselves on how ternary machines will work in practice. The software will be free to use, but much like most AI models, a subscription will be required for premium features such as priority server access, immediate access to updates, and the ability to beta-test new applications and resources.
 <br></br>
 
 ## Introduction
