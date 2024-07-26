@@ -18,7 +18,6 @@
 [![Agreement](https://img.shields.io/badge/Agreement-Tern%20Systems-lightgrey?style=plastic)](AGREEMENT)
 [![License](https://img.shields.io/badge/License-MIT-FF2D00?style=plastic)](LICENSE)
 
-
 ## Introduction
 Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on board. This document serves as your guide to getting started with our GitHub organization, understanding our workflows, and integrating smoothly into our team.
 
