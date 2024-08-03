@@ -43,98 +43,119 @@ Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on 
    * Start by cloning the repository relevant to your project.
 
 <br></br>
-## Working with Repositories
+## Contribution Guidelines
 
-### 1. __Branching Strategy__
-
-   * We follow the Git Flow branching model.
-
-   * Create a new branch for each feature or bug fix:
-
-     ```
-     git checkout -b feature/your-feature-name
-     ```
-
-### 2. __Commit Messages__
-
-   * Write clear and concise commit messages.
-
-   * Follow the convention:
-
-     ```
-     [type] Short description (fixes #issue)
-     ```
-
-   * Example:
-
-     ```
-     [feat] Add user authentication (fixes #45)
-     ```
-
-### 3. __Pull Requests__
-
-   * Ensure your branch is up to date with the `main` branch before creating a pull request (PR).
-   
-   * Request a review from at least one team member.
-   
-   * Add a detailed description of the changes made.
-
+Contributors to the Tern Systems GitHub Organization are to detail the degree of changes that were invoked at each commit stage.
+Maintaining a high level of professionalism in work and communication is paramount to the integrity of the Tern Systems GitHub Organization and so the following guidelines must be followed:
 <br></br>
-## Code Reviews
 
-### 1. __Reviewing PRs__
-
-   * Provide constructive feedback.
-   
-   * Check for code quality, functionality, and adherence to coding standards.
-
-### 2. __Addressing Feedback__
-
-   * Respond to comments and make necessary changes.
-   
-   * Ensure all conversations are resolved before merging.
-
+1. __Adhere to the Tern Systems Coding Standards__
+    * Follow established coding standards and style guides relevant to the Tern Systems GitHub Organization.
+      
+    * Ensure consistency in code formatting, naming conventions, and file organization.
+<br></br>    
+2. __Write Comprehensive Documentation__
+    * Provide clear and concise documentation for all functions, classes, and modules.
+      
+    * Maintain an up-to-date README file that includes setup instructions, usage examples, and project overview.
+<br></br>     
+3. __Commit Often with Descriptive Messages__
+    * Commit code changes frequently to avoid large, unwieldy commits.
+      
+    * Use descriptive commit messages that clearly explain the purpose of the changes.
+<br></br>      
+4. __Conduct Thorough Code Reviews__
+    * Perform rigorous code reviews for all pull requests to ensure code quality and adherence to guidelines.
+      
+    * Provide constructive feedback and address all comments before merging code.
+<br></br>      
+5. __Ensure Robust Testing__
+    * Write comprehensive unit, integration, and end-to-end tests to cover all critical code paths.
+      
+    * Use continuous integration (CI) pipelines to run automated tests on every commit and pull request.
+<br></br>      
+6. __Prioritize Security and Performance__
+    * Implement best practices for security, such as input validation, error handling, and secure authentication.
+      
+    * Optimize code for performance, ensuring efficient use of resources and minimal latency.
+<br></br>      
+7. __Maintain Clean and Modular Code__
+    * Write clean, readable, and maintainable code by following the principles of modularity and separation of concerns.
+      
+    * Avoid code duplication and strive for reusability through well-defined interfaces and components.
+<br></br>      
+8. __Use Effective Branching Strategies__
+    * Adopt a branching strategy such as GitFlow or feature branching to manage development workflows efficiently.
+      
+    * Ensure that the main branch remains stable and deployable by merging only thoroughly tested and reviewed code.
 <br></br>
-## Best Practices
+### Procedures for Pushing to Tern Systems Repositories
 
-### 1. __Coding Standards__
+#### Cloning a Repository
 
-   * Follow our [coding guidelines](https://github.com/TernSystems/coding-guidelines.md).
-     
-   * Write clean, readable, and maintainable code.
-
-### 2. __Documentation__
-
-   * Document your code thoroughly.
-   
-   * Update the README file with any new setup instructions or changes.
-
+Navigate to the repository on GitHub that you want to clone.
+Click the green `Code` button and copy the URL from the `HTTPS` tab.
+Open the integrated terminal in your code editor or in a separate terminal application.
+Navigate to the desired directory where you want to clone the repository.
+Clone the repository by running the command:
 <br></br>
-## Communication
-
-### 1. __Slack__
-
-   * Join our Slack workspace for team communication.
-   
-   * Use appropriate channels for discussions, questions, and updates.
-
-### 2. __Meetings__
-
-   * Attend regular team meetings as scheduled.
-   
-   * Check the meeting calendar on Slack for updates.
-
+   ```sh
+   git clone <copied_url>
+   ```
 <br></br>
-## Support
+Replace `<copied_url>` with the actual address you copied from the repository.
+Navigate to the cloned repository using:
+<br></br>
+   ```sh
+   cd <your_repository>
+   ```
+<br></br>
+Create a new branch with a name related to the task by running the command:
+<br></br>   
+   ```sh
+   git checkout -b <new_branch/description_of_update>
+   ```
+<br></br>
+Change the directory to the `new_branch` before making modifications.
+<br></br>
 
-### 1. __Technical Support__
+#### Pushing to GitHub
 
-   * For technical issues, reach out to IT support at [garydinmore@tern.ac](mailto:garydinmore@tern.ac).
-
-### 2. __Team Support__
-
-   * For any team-related queries, contact your team lead.
-
----
+Navigate to your `new_branch` using the command below:
+<br></br>   
+   ```sh
+   git checkout <new_branch>
+   ```
+<br></br>
+Make the necessary updates to your branch.
+Stage your changes with the following command:
+<br></br>
+   ```sh
+   git add .
+   ```
+<br></br>
+Commit your changes using the command:
+<br></br>
+   ```sh
+   git commit -m "<description_message>"
+   ```
+<br></br>
+Fetch the latest changes from the remote repository using the command:
+<br></br>
+   ```sh
+   git fetch origin
+   ```
+<br></br>
+Rebase your new branch onto the updated main branch with the command:
+<br></br>
+   ```sh
+   git rebase origin/main
+   ```
+<br></br>
+Push your changes to GitHub using the following command:
+<br></br>
+   ```sh
+   git push origin <new_branch>
+   ```
 
 We are excited to see the great contributions you will make. Welcome to the Tern Systems GitHub Organization and happy coding!
