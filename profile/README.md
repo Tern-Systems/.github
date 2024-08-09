@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/user-attachments/assets/0b10d476-8e54-4dec-8b53-39a381a98c3d width="1200" />
+<img src=https://github.com/user-attachments/assets/f9954bd9-0495-4026-9f92-d8ba18c94c10 width="1200" />
 
 # Welcome to the Tern Systems GitHub Organization!
 </div>
@@ -50,10 +50,10 @@ The G programming language is a high-level programming language whose grammar is
 <br></br>
 
 <div align="center">
-<img src=https://github.com/user-attachments/assets/0b10d476-8e54-4dec-8b53-39a381a98c3d width="1200" />
+<img src=https://github.com/user-attachments/assets/c0df1d64-9295-47a2-9439-053c346c42e9 width="1200" />
 </div>
 
-### [Tern-Systems-Website](https://github.com/Tern-Systems/Tern-Systems-Website)
+### [Website](https://github.com/Tern-Systems/Website)
 This repository hosts the source code for the Tern Systems corporate website. It includes the website's front-end code, assets, and content management resources. Contributions to this repository help us maintain an up-to-date, user-friendly web presence.
 <br></br>
 
@@ -63,125 +63,131 @@ This repository hosts the source code for the Tern Systems corporate website. It
 
 ### [TernKey](https://github.com/Tern-Systems/TernKey)
 TernKey is a ternary microprocessor language simulator that communicates the usefulness and real-world applicability of ternary microprocessor designs through the software front. TernKey will be hosted on our website with a ternary emulated environment (virtual machine) meant to allow programmers and software developers alike to educate themselves on how ternary machines will work in practice. The software will be free to use, but much like most AI models, a subscription will be required for premium features such as priority server access, immediate access to updates, and the ability to beta-test new applications and resources.
+
 <br></br>
+## Table of Contents
+  
+* [Getting Started](#Getting%20Started)
 
-## Introduction
-Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on board. This document serves as your guide to getting started with our GitHub organization, understanding our workflows, and integrating smoothly into our team.
+* [Documentation](#Documentation)
+  
+* [Contribution Guidelines](#Contribution%20Guidelines)
+  
+* [Legal](#Legal)
 
+* [Contact](#Contact)
+  
 <br></br>
 ## Getting Started
 
-### 1. __Join the Organization__
+These instructions will help you set up and start using [software name] on your local machine for development and testing.
 
-   * Accept the invitation sent to your email to join the Tern Systems GitHub organization.
-     
-   * If you haven't received an invitation, please contact our IT support at [garydinmore@tern.ac](mailto:garydinmore@tern.ac).
+### Prerequisites
 
-### 2. __Set Up Your Profile__
+* __[prerequisite name]__: [information about why this prerequisite is necessary and what it is used for].
 
-   * Update your GitHub profile with your name, role, and a professional photo.
+* __[addition prerequisite name if applicable]__:
 
-   * Add a brief bio to let the team know more about you.
+### Installation
 
-### 3. __Accessing Repositories__
+1. __Clone the repository__:
 
-   * Once you are a member, you will have access to our repositories.
+    ```sh
+    git clone https://github.com/Tern-Systems/TERN.git
+    cd TERN
+    ```
+2.__[next step if applicable]__:
 
-   * Start by cloning the repository relevant to your project.
-
-<br></br>
-## Working with Repositories
-
-### 1. __Branching Strategy__
-
-   * We follow the Git Flow branching model.
-
-   * Create a new branch for each feature or bug fix:
-
-     ```
-     git checkout -b feature/your-feature-name
-     ```
-
-### 2. __Commit Messages__
-
-   * Write clear and concise commit messages.
-
-   * Follow the convention:
-
-     ```
-     [type] Short description (fixes #issue)
-     ```
-
-   * Example:
-
-     ```
-     [feat] Add user authentication (fixes #45)
-     ```
-
-### 3. __Pull Requests__
-
-   * Ensure your branch is up to date with the `main` branch before creating a pull request (PR).
-   
-   * Request a review from at least one team member.
-   
-   * Add a detailed description of the changes made.
 
 <br></br>
-## Code Reviews
+## Documentation
 
-### 1. __Reviewing PRs__
-
-   * Provide constructive feedback.
-   
-   * Check for code quality, functionality, and adherence to coding standards.
-
-### 2. __Addressing Feedback__
-
-   * Respond to comments and make necessary changes.
-   
-   * Ensure all conversations are resolved before merging.
+The ‘docs’ directory of this repository contains detailed documentation for the [[software name]](software repository link).
 
 <br></br>
-## Best Practices
+## Contribution Guidelines
 
-### 1. __Coding Standards__
+When you edit READMEs be sure to remain consistent and use `*` for bullet points, and `__` for making text bold.
 
-   * Follow our [coding guidelines](https://github.com/TernSystems/coding-guidelines.md).
-     
-   * Write clean, readable, and maintainable code.
+### Cloning a Repository
 
-### 2. __Documentation__
+1. Navigate to the repository on GitHub that you want to clone.
 
-   * Document your code thoroughly.
-   
-   * Update the README file with any new setup instructions or changes.
+2. Click the green `Code` button and copy the URL from the `HTTPS` tab.
+
+3. Open the integrated terminal in your code editor or in a separate terminal application.
+
+4. Navigate to the desired directory where you want to clone the repository.
+
+5. Clone the repository by running the command:
+
+   ```sh
+   git clone <copied_url>
+   ```
+
+5. Replace `<copied_url>` with the actual address you copied from the repository.
+
+6. Navigate to the cloned repository using:
+
+   ```sh
+   cd <your_repository>
+   ```
+
+7. Create a new branch with a name related to the task by running the command:
+
+   ```sh
+   git checkout -b <new_branch/description_of_update>
+   ```
+
+8. Change the directory to the `new_branch` before making modifications.
+
+
+### Pushing to GitHub
+
+1. Navigate to your `new_branch` using the command below:
+ 
+   ```sh
+   git checkout <new_branch>
+   ```
+
+2. Make the necessary updates to your branch.
+
+3. Stage your changes with the following command:
+
+   ```sh
+   git add .
+   ```
+
+4. Commit your changes using the command:
+
+   ```sh
+   git commit -m "<description_message>"
+   ```
+
+5. Fetch the latest changes from the remote repository using the command:
+
+   ```sh
+   git fetch origin
+   ```
+
+6. Rebase your new branch onto the updated main branch with the command:
+
+   ```sh
+   git rebase origin/main
+   ```
+
+7. Push your changes to GitHub using the following command:
+
+   ```sh
+   git push origin <new_branch>
+   ```
 
 <br></br>
-## Communication
+## Legal
 
-### 1. __Slack__
-
-   * Join our Slack workspace for team communication.
-   
-   * Use appropriate channels for discussions, questions, and updates.
-
-### 2. __Meetings__
-
-   * Attend regular team meetings as scheduled.
-   
-   * Check the meeting calendar on Slack for updates.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. The product of this project is always further protected under the Tern Systems LLC [AGREEMENT](AGREEMENT), including the American copyright laws, with All Rights Reserved to the business as mentioned earlier from the year 2024 for as long as they remain a legal entity of the United States of America.
 
 <br></br>
-## Support
+## Contact
 
-### 1. __Technical Support__
-
-   * For technical issues, reach out to IT support at [garydinmore@tern.ac](mailto:garydinmore@tern.ac).
-
-### 2. __Team Support__
-
-   * For any team-related queries, contact your team lead.
-
----
-
-We are excited to see the great contributions you will make. Welcome to the Tern Systems GitHub Organization and happy coding!
+For any inquiries or feedback, please contact the maintainers at garydinmore@tern.ac or adrianfontanilla@tern.ac.
