@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/user-attachments/assets/dc102740-151f-49aa-bd79-3bdfa934c892 width="1200" />
+<img src=https://github.com/user-attachments/assets/f9954bd9-0495-4026-9f92-d8ba18c94c10 width="1200" />
 
 # Welcome to the Tern Systems GitHub Organization!
 </div>
@@ -18,144 +18,176 @@
 [![Agreement](https://img.shields.io/badge/Agreement-Tern%20Systems-lightgrey?style=plastic)](AGREEMENT)
 [![License](https://img.shields.io/badge/License-MIT-FF2D00?style=plastic)](LICENSE)
 
-## Introduction
-Welcome to the Tern Systems GitHub Organization! We are thrilled to have you on board. This document serves as your guide to getting started with our GitHub organization, understanding our workflows, and integrating smoothly into our team.
+# Overview
 
+Welcome to the Tern Systems GitHub Organization. Tern Systems is a consortium that encapsulates a diverse array of products, services, assets, and projects integral to the operations of Tern Systems companies. Our GitHub organization is structured to facilitate collaboration, innovation, and transparency across our various technological initiatives. Below is an overview of the key repositories within our organization:
+
+<br></br>
+## Repositories
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/4ba18821-e3fc-43d1-b52e-748d30bae7c9 width="1200" />
+</div>
+
+### [BTMC](https://github.com/Tern-Systems/BTMC)
+BTMC stands for Balanced Ternary Machine Code and is designed for efficient computing using the balanced ternary number system. This repository contains the specifications, tools, and examples for BTMC, aimed at leveraging the unique advantages of ternary computing systems to achieve higher efficiency and performance.
+<br></br>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/244d0d1c-1aaa-4d22-815a-8c8f2060efd1 width="1200" />
+</div>
+
+### [TERN](https://github.com/Tern-Systems/TERN)
+TERN is a groundbreaking assembly language designed for balanced ternary computing systems. Drawing inspiration from the RISC-V architecture, TERN aims to provide a robust and efficient programming language that harnesses the power of ternary logic.
+<br></br>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/5d232e74-0ab8-446a-9c09-19349b4a8851 width="1200" />
+</div>
+
+### [G](https://github.com/Tern-Systems/G)
+The G programming language is a high-level programming language whose grammar is inspired by Python. The G compiler, written in C++, compiles G code down to the TERN assembly language. This project aims to combine the simplicity and readability of Python with the performance and control of low-level TERN assembly.
+<br></br>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/c0df1d64-9295-47a2-9439-053c346c42e9 width="1200" />
+</div>
+
+### [Website](https://github.com/Tern-Systems/Website)
+This repository hosts the source code for the Tern Systems corporate website. It includes the website's front-end code, assets, and content management resources. Contributions to this repository help us maintain an up-to-date, user-friendly web presence.
+<br></br>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/50cf0000-e616-4bbe-b1bb-dab0b519ee88 width="1200" />
+</div>
+
+### [TernKey](https://github.com/Tern-Systems/TernKey)
+TernKey is a ternary microprocessor language simulator that communicates the usefulness and real-world applicability of ternary microprocessor designs through the software front. TernKey will be hosted on our website with a ternary emulated environment (virtual machine) meant to allow programmers and software developers alike to educate themselves on how ternary machines will work in practice. The software will be free to use, but much like most AI models, a subscription will be required for premium features such as priority server access, immediate access to updates, and the ability to beta-test new applications and resources.
+
+<br></br>
+## Table of Contents
+  
+* [Getting Started](#Getting%20Started)
+
+* [Documentation](#Documentation)
+  
+* [Contribution Guidelines](#Contribution%20Guidelines)
+  
+* [Legal](#Legal)
+
+* [Contact](#Contact)
+  
 <br></br>
 ## Getting Started
 
-### 1. __Join the Organization__
+These instructions will help you set up and start using [software name] on your local machine for development and testing.
 
-   * Accept the invitation sent to your email to join the Tern Systems GitHub organization.
-     
-   * If you haven't received an invitation, please contact our IT support at [garydinmore@tern.ac](mailto:garydinmore@tern.ac).
+### Prerequisites
 
-### 2. __Set Up Your Profile__
+* __[prerequisite name]__: [information about why this prerequisite is necessary and what it is used for].
 
-   * Update your GitHub profile with your name, role, and a professional photo.
+* __[addition prerequisite name if applicable]__:
 
-   * Add a brief bio to let the team know more about you.
+### Installation
 
-### 3. __Accessing Repositories__
+1. __Clone the repository__:
 
-   * Once you are a member, you will have access to our repositories.
+    ```sh
+    git clone https://github.com/Tern-Systems/TERN.git
+    cd TERN
+    ```
+2.__[next step if applicable]__:
 
-   * Start by cloning the repository relevant to your project.
+
+<br></br>
+## Documentation
+
+The ‘docs’ directory of this repository contains detailed documentation for the [[software name]](software repository link).
 
 <br></br>
 ## Contribution Guidelines
 
-Contributors to the Tern Systems GitHub Organization are to detail the degree of changes that were invoked at each commit stage.
-Maintaining a high level of professionalism in work and communication is paramount to the integrity of the Tern Systems GitHub Organization and so the following guidelines must be followed:
-<br></br>
+When you edit READMEs be sure to remain consistent and use `*` for bullet points, and `__` for making text bold.
 
-1. __Adhere to the Tern Systems Coding Standards__
-    * Follow established coding standards and style guides relevant to the Tern Systems GitHub Organization.
-      
-    * Ensure consistency in code formatting, naming conventions, and file organization.
-<br></br>    
-2. __Write Comprehensive Documentation__
-    * Provide clear and concise documentation for all functions, classes, and modules.
-      
-    * Maintain an up-to-date README file that includes setup instructions, usage examples, and project overview.
-<br></br>     
-3. __Commit Often with Descriptive Messages__
-    * Commit code changes frequently to avoid large, unwieldy commits.
-      
-    * Use descriptive commit messages that clearly explain the purpose of the changes.
-<br></br>      
-4. __Conduct Thorough Code Reviews__
-    * Perform rigorous code reviews for all pull requests to ensure code quality and adherence to guidelines.
-      
-    * Provide constructive feedback and address all comments before merging code.
-<br></br>      
-5. __Ensure Robust Testing__
-    * Write comprehensive unit, integration, and end-to-end tests to cover all critical code paths.
-      
-    * Use continuous integration (CI) pipelines to run automated tests on every commit and pull request.
-<br></br>      
-6. __Prioritize Security and Performance__
-    * Implement best practices for security, such as input validation, error handling, and secure authentication.
-      
-    * Optimize code for performance, ensuring efficient use of resources and minimal latency.
-<br></br>      
-7. __Maintain Clean and Modular Code__
-    * Write clean, readable, and maintainable code by following the principles of modularity and separation of concerns.
-      
-    * Avoid code duplication and strive for reusability through well-defined interfaces and components.
-<br></br>      
-8. __Use Effective Branching Strategies__
-    * Adopt a branching strategy such as GitFlow or feature branching to manage development workflows efficiently.
-      
-    * Ensure that the main branch remains stable and deployable by merging only thoroughly tested and reviewed code.
-<br></br>
-### Procedures for Pushing to Tern Systems Repositories
+### Cloning a Repository
 
-#### Cloning a Repository
+1. Navigate to the repository on GitHub that you want to clone.
 
-Navigate to the repository on GitHub that you want to clone.
-Click the green `Code` button and copy the URL from the `HTTPS` tab.
-Open the integrated terminal in your code editor or in a separate terminal application.
-Navigate to the desired directory where you want to clone the repository.
-Clone the repository by running the command:
-<br></br>
+2. Click the green `Code` button and copy the URL from the `HTTPS` tab.
+
+3. Open the integrated terminal in your code editor or in a separate terminal application.
+
+4. Navigate to the desired directory where you want to clone the repository.
+
+5. Clone the repository by running the command:
+
    ```sh
    git clone <copied_url>
    ```
-<br></br>
-Replace `<copied_url>` with the actual address you copied from the repository.
-Navigate to the cloned repository using:
-<br></br>
+
+5. Replace `<copied_url>` with the actual address you copied from the repository.
+
+6. Navigate to the cloned repository using:
+
    ```sh
    cd <your_repository>
    ```
-<br></br>
-Create a new branch with a name related to the task by running the command:
-<br></br>   
+
+7. Create a new branch with a name related to the task by running the command:
+
    ```sh
    git checkout -b <new_branch/description_of_update>
    ```
-<br></br>
-Change the directory to the `new_branch` before making modifications.
-<br></br>
 
-#### Pushing to GitHub
+8. Change the directory to the `new_branch` before making modifications.
 
-Navigate to your `new_branch` using the command below:
-<br></br>   
+
+### Pushing to GitHub
+
+1. Navigate to your `new_branch` using the command below:
+ 
    ```sh
    git checkout <new_branch>
    ```
-<br></br>
-Make the necessary updates to your branch.
-Stage your changes with the following command:
-<br></br>
+
+2. Make the necessary updates to your branch.
+
+3. Stage your changes with the following command:
+
    ```sh
    git add .
    ```
-<br></br>
-Commit your changes using the command:
-<br></br>
+
+4. Commit your changes using the command:
+
    ```sh
    git commit -m "<description_message>"
    ```
-<br></br>
-Fetch the latest changes from the remote repository using the command:
-<br></br>
+
+5. Fetch the latest changes from the remote repository using the command:
+
    ```sh
    git fetch origin
    ```
-<br></br>
-Rebase your new branch onto the updated main branch with the command:
-<br></br>
+
+6. Rebase your new branch onto the updated main branch with the command:
+
    ```sh
    git rebase origin/main
    ```
-<br></br>
-Push your changes to GitHub using the following command:
-<br></br>
+
+7. Push your changes to GitHub using the following command:
+
    ```sh
    git push origin <new_branch>
    ```
 
-We are excited to see the great contributions you will make. Welcome to the Tern Systems GitHub Organization and happy coding!
+<br></br>
+## Legal
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. The product of this project is always further protected under the Tern Systems LLC [AGREEMENT](AGREEMENT), including the American copyright laws, with All Rights Reserved to the business as mentioned earlier from the year 2024 for as long as they remain a legal entity of the United States of America.
+
+<br></br>
+## Contact
+
+For any inquiries or feedback, please contact the maintainers at garydinmore@tern.ac or adrianfontanilla@tern.ac.
