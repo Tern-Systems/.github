@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/user-attachments/assets/f9954bd9-0495-4026-9f92-d8ba18c94c10 width="1200" />
+<img src=https://github.com/user-attachments/assets/31b1c789-67d7-4172-9398-cb1ed2d42832 width="1200" />
 
 # Welcome to the Tern Systems GitHub Organization!
 </div>
